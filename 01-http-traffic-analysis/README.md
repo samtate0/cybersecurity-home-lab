@@ -1,3 +1,4 @@
+<img width="1709" height="812" alt="1st Traffic Analysis Lab" src="https://github.com/user-attachments/assets/5f894925-c5f2-47b1-9972-75b83c7b09a8" />
 # HTTP Traffic Analysis Lab
 ## Overview
 This project involved hosting a local Python HTTP server inside a Kali Linux virtual machine and analyzing network traffic generated when accessing the webpage using Wireshark.
@@ -43,3 +44,4 @@ python3 -m http.server 8000
 - Importance of encryption for protecting web traffic
 
 ## Screenshots
+<img width="1709" height="812" alt="1st Traffic Analysis Lab" src="https://github.com/user-attachments/assets/1e0afc73-e657-4d65-83e2-f9d74eb83129" />
